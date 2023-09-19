@@ -1,1 +1,1 @@
-These are conflicts
+There are no conflicts
